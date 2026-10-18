@@ -6,9 +6,9 @@
 # ======================================================================
 
 from __future__ import absolute_import
-__author__ = "Emil"
-__email__ = "emilnabilragheb@gmail.com"
-__copyright__ = 'Copyright (c) 2025 Emil'
+__author__ = "tarek"
+__email__ = "zoka900zoka2yahoo.com"
+__copyright__ = 'Copyright (c) 2025 tarek'
 __license__ = "GPL-v2"
 __version__ = "1.0.0"
 

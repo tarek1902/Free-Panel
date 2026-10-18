@@ -16,7 +16,7 @@ import sys
 import codecs
 import os
 
-plugin_path = resolveFilename(SCOPE_PLUGINS, "Extensions/{}".format('EmilPanelPro'))
+plugin_path = resolveFilename(SCOPE_PLUGINS, "Extensions/{}".format('Free-Panel'))
 PY2 = sys.version_info[0] == 2
 PY3 = sys.version_info[0] == 3
 
@@ -39,7 +39,7 @@ else:
 
 class Console(Screen):
 
-	def __init__(self, session, title='EmilPanelPro Console', cmdlist=None, finishedCallback=None, closeOnSuccess=False, showStartStopText=True, skin=None):
+	def __init__(self, session, title='Free-Panel Console', cmdlist=None, finishedCallback=None, closeOnSuccess=False, showStartStopText=True, skin=None):
 		Screen.__init__(self, session)
 		self.finishedCallback = finishedCallback
 		self.closeOnSuccess = closeOnSuccess
@@ -65,7 +65,7 @@ class Console(Screen):
 									"blue": self.restartenigma,
 									"exit": self.cancel,
 									}, -1)
-		self.newtitle = title == 'EmilPanelPro Console' and ('Console') or title
+		self.newtitle = title == 'Free-Panel Console' and ('Console') or title
 		self.cmdlist = isinstance(cmdlist, list) and cmdlist or [cmdlist]
 		self.cancel_msg = None
 		self.onShown.append(self.updateTitle)

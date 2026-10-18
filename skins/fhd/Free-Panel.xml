@@ -1,18 +1,18 @@
-<screen name="EmilPanelPro" position="center,center" size="1920,1080" title="Emil Panel Pro">
-    <ePixmap position="0,0" zPosition="0" size="1920,1080" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/EmilPanelPro/images/panel.png" backgroundColor="#25062748" alphatest="on" />
+<screen name="EmilPanelPro" position="center,center" size="1920,1080" title="Free-Panel">
+    <ePixmap position="0,0" zPosition="0" size="1920,1080" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Free-Panel/images/panel.png" backgroundColor="#25062748" alphatest="on" />
     <eLabel position="0,0" zPosition="-10" size="1920,1080" backgroundColor="black" />
     <widget name="info" position="100,100" zPosition="4" size="550,84" font="Regular; 45" foregroundColor="#0049bbff" backgroundColor="#40000000" transparent="1" halign="left" valign="center" />
     <widget name="sort" position="1224,986" zPosition="4" size="675,84" font="Regular; 42" foregroundColor="#0049bbff" backgroundColor="#40000000" transparent="1" halign="left" valign="center" />
     <eLabel name="sort_index" position="1179,1002" size="52,52" backgroundColor="#40000000" halign="center" valign="center" transparent="1" cornerRadius="26" font="Regular; 42" zPosition="1" text="0" foregroundColor="#0049bbff" />
     <widget source="session.VideoPicture" render="Pig" position="1100,180" size="750,550" zPosition="1" backgroundColor="#ff000000" />
-    <ePixmap position="1100,650" zPosition="1" size="500,500" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/EmilPanelPro/images/emilpanel.png" alphatest="on" />
+    <ePixmap position="1100,650" zPosition="1" size="500,500" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Free-Panel/images/Free-Panel.png" alphatest="on" />
     <widget source="global.CurrentTime" render="Label" position="1555,860" size="350,90" font="Regular; 75" noWrap="1" halign="center" valign="bottom" foregroundColor="#0049bbff" backgroundColor="#20000000" transparent="1" zPosition="2">
         <convert type="ClockToText">Default</convert>
     </widget>
     <widget source="global.CurrentTime" render="Label" position="1565,920" size="335,54" font="Regular; 24" halign="center" valign="bottom" foregroundColor="#707070" backgroundColor="#20000000" transparent="1" zPosition="1">
         <convert type="ClockToText">Format %A %d %B</convert>
     </widget>
-    <widget name="frame" position="100,210" size="150,150" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/EmilPanelPro/images/pic_frame2.png" zPosition="3" alphatest="on" />
+    <widget name="frame" position="100,210" size="150,150" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Free-Panel/images/pic_frame2.png" zPosition="3" alphatest="on" />
     
     <widget name="pixmap1" position="100,210" size="150,150" zPosition="2" transparent="1" alphatest="on" />
     <widget name="name_label1" position="100,370" size="150,50" font="Regular;24" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
@@ -59,10 +59,10 @@
     <widget name="name_label20" position="940,1005" size="150,50" font="Regular;24" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
     
     <widget name="key_red" position="1350,970" size="340,80" valign="center" halign="center" zPosition="4" foregroundColor="#FF5252" font="Bold;50" transparent="1" shadowColor="#25062748" shadowOffset="-2,-2" />
-    <widget name="pixmap_red" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/EmilPanelPro/images/red.png" position="1320,1042" size="200,30" zPosition="4" alphatest="on" />
+    <widget name="pixmap_red" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Free-Panel/images/red.png" position="1320,1042" size="200,30" zPosition="4" alphatest="on" />
     
     <widget name="key_yellow" position="1565,970" size="340,80" valign="center" halign="center" zPosition="4" foregroundColor="#FFD700" font="Bold;50" transparent="1" shadowColor="#25062748" shadowOffset="-2,-2" />
-    <widget name="pixmap_yellow" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/EmilPanelPro/images/yellow.png" position="1665,1042" size="200,30" zPosition="4" alphatest="on" />
+    <widget name="pixmap_yellow" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Free-Panel/images/yellow.png" position="1665,1042" size="200,30" zPosition="4" alphatest="on" />
 </screen>
 
 

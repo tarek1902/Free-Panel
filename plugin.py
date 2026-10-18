@@ -756,7 +756,7 @@ class ChannelsPanel(Screen):
         except:
             pass
             
-        with codecs.open(join(skin_path, "EmilPanel.xml"), "r", encoding="utf-8") as f:
+        with codecs.open(join(skin_path, "Free-Panel.xml"), "r", encoding="utf-8") as f:
             self.skin = f.read()
 
         self.pos = get_positions("FHD" if isWQHD() or isFHD() else "HD")
@@ -1039,7 +1039,7 @@ class SkinsPanel(Screen):
         except:
             pass
             
-        with codecs.open(join(skin_path, "EmilPanel.xml"), "r", encoding="utf-8") as f:
+        with codecs.open(join(skin_path, "Free-Panel.xml"), "r", encoding="utf-8") as f:
             self.skin = f.read()
 
         self.pos = get_positions("FHD" if isWQHD() or isFHD() else "HD")

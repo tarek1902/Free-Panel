@@ -18,8 +18,8 @@ import gettext
 import os
 
 
-PluginLanguageDomain = 'EmilPanelPro'
-PluginLanguagePath = 'Extensions/EmilPanelPro/locale'
+PluginLanguageDomain = 'Free-Panel'
+PluginLanguagePath = 'Extensions/Free-Panel/locale'
 
 
 isDreambox = False

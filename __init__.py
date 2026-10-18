@@ -1,11 +1,11 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# EmilPanelPro Plugin
+# Free-Panel Plugin
 #
 from __future__ import absolute_import
-__author__ = "Emil"
-__email__ = "emilnabilrageb@gmail.com"
+__author__ = "tarek"
+__email__ = "zoka900zoka@yahoo.com"
 __copyright__ = 'Copyright (c) 2025 Emil'
 __license__ = "GPL-v2"
 __version__ = "1.0.0"
@@ -65,7 +65,7 @@ AgentRequest = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KH
 
 xmlurl = 'https://github.com/emilnabil/download-plugins/raw/refs/heads/main/emilpanel.xml'
 installer_url = 'wget https://github.com/emilnabil/download-plugins/raw/refs/heads/main/EmilPanelPro/emilpanelpro.sh -O - | /bin/sh'
-developer_url = 'https://api.github.com/repos/emilnabil/download-plugins'
+developer_url = 'https://api.github.com/repos/tarek1902/Free-Panel'
 
 ListUrl = [
 	"https://bosscccam.co/Test.php",

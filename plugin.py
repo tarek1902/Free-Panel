@@ -194,7 +194,7 @@ class BaseScreen(Screen):
             <screen position="center,center" size="1800,1000" title="">
                 <ePixmap position="0,0" size="1800,1000" pixmap="%s/images/back.png" zPosition="-1" />
                 <widget source="title" render="Label" position="center,30" size="1600,60" font="Regular;60" halign="center" valign="center" foregroundColor="#ffffff" backgroundColor="#000000" />
-                <ePixmap position="1100,500" zPosition="1" size="500,500" pixmap="%s/images/emilpanel.png" alphatest="on" />
+                <ePixmap position="1100,500" zPosition="1" size="500,500" pixmap="%s/images/Free-Panel.png" alphatest="on" />
                 <widget name="list" position="50,100" size="850,820" itemHeight="82" font="Regular;60" scrollbarMode="showOnDemand" foregroundColor="#ffffff" backgroundColor="#000000" />
                 <widget source="session.CurrentService" render="Pig" position="950,100" size="800,450" zPosition="10" backgroundColor="transparent" />
                 <widget source="key_red" render="Label" position="150,930" size="400,40" backgroundColor="#9f1313" transparent="0" halign="center" valign="center" font="Regular;35" foregroundColor="#ffffff" zPosition="1"/>
@@ -209,7 +209,7 @@ class BaseScreen(Screen):
             <screen position="center,center" size="1200,700" title="">
                 <ePixmap position="0,0" size="1200,700" pixmap="%s/images/back.png" zPosition="-1" />
                 <widget source="title" render="Label" position="center,20" size="1000,40" font="Regular;32" halign="center" valign="center" foregroundColor="#ffffff" backgroundColor="#000000" />
-                <ePixmap position="720,400" zPosition="1" size="200,200" pixmap="%s/images-hd/emilpanel.png" alphatest="on" />
+                <ePixmap position="720,400" zPosition="1" size="200,200" pixmap="%s/images-hd/Free-Panel.png" alphatest="on" />
                 <widget name="list" position="30,80" size="550,520" itemHeight="52" font="Regular;28" scrollbarMode="showOnDemand" foregroundColor="#ffffff" backgroundColor="#000000" />
                 <widget source="session.CurrentService" render="Pig" position="610,80" size="550,309" zPosition="10" backgroundColor="transparent" />
                 <widget source="key_red" render="Label" position="100,640" size="300,35" backgroundColor="#9f1313" transparent="0" halign="center" valign="center" font="Regular;25" foregroundColor="#ffffff" zPosition="1"/>
@@ -1601,7 +1601,7 @@ class EmilPanel(Screen):
 def main(session, **kwargs):
     global _session
     _session = session
-    session.open(EmilPanel)
+    session.open(Free-Panel)
 
 def menu(menuid, **kwargs):
     return [(_("Free-Panel"), main, descplug, 44)] if menuid == "mainmenu" else []

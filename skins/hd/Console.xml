@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screen name="Console" title="Console" position="center,center" size="720,576">
+  <ePixmap position="0,0" size="720,576" pixmap="background.png" zPosition="-1" />
+  
+  <widget name="text" position="30,30" size="660,480" font="Regular;20" halign="left" valign="top" transparent="1" />
+  
+  <widget name="key_red" position="30,520" size="120,30" font="Regular;20" halign="center" valign="center" backgroundColor="red" foregroundColor="white" transparent="1" />
+  <widget name="key_green" position="180,520" size="120,30" font="Regular;20" halign="center" valign="center" backgroundColor="green" foregroundColor="white" transparent="1" />
+  
+  <ePixmap position="30,520" size="120,30" pixmap="buttons/red.png" zPosition="0" />
+  <ePixmap position="180,520" size="120,30" pixmap="buttons/green.png" zPosition="0" />
+</screen>

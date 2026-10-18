@@ -1,0 +1,73 @@
+<screen name="EmilPanelPro" position="center,center" size="1280,720" title="Emil Panel Pro">
+    <ePixmap position="0,0" zPosition="0" size="1280,720" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/EmilPanelPro/images-hd/panel.png" backgroundColor="#25062748" alphatest="on" />
+    <eLabel position="0,0" zPosition="-10" size="1280,720" backgroundColor="black" />
+    <widget name="info" position="67,67" zPosition="4" size="367,56" font="Regular; 30" foregroundColor="#0049bbff" backgroundColor="#40000000" transparent="1" halign="left" valign="center" />
+    <widget name="sort" position="816,657" zPosition="4" size="450,56" font="Regular; 28" foregroundColor="#0049bbff" backgroundColor="#40000000" transparent="1" halign="left" valign="center" />
+    <eLabel name="sort_index" position="786,668" size="35,35" backgroundColor="#40000000" halign="center" valign="center" transparent="1" cornerRadius="18" font="Regular; 28" zPosition="1" text="0" foregroundColor="#0049bbff" />
+    <widget source="session.VideoPicture" render="Pig" position="733,120" size="500,367" zPosition="1" backgroundColor="#ff000000" />
+    <ePixmap position="733,483" zPosition="1" size="333,333" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/EmilPanelPro/images-hd/emilpanel.png" alphatest="on" />
+    <widget source="global.CurrentTime" render="Label" position="1037,573" size="233,60" font="Regular; 50" noWrap="1" halign="center" valign="bottom" foregroundColor="#0049bbff" backgroundColor="#20000000" transparent="1" zPosition="2">
+        <convert type="ClockToText">Default</convert>
+    </widget>
+    <widget source="global.CurrentTime" render="Label" position="1043,613" size="223,36" font="Regular; 16" halign="center" valign="bottom" foregroundColor="#707070" backgroundColor="#20000000" transparent="1" zPosition="1">
+        <convert type="ClockToText">Format %A %d %B</convert>
+    </widget>
+    <widget name="frame" position="65,135" size="110,110" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/EmilPanelPro/images-hd/pic_frame2.png" scale="stretch" zPosition="3" alphatest="on" />
+    
+    <!-- Row 1 -->
+    <widget name="pixmap1" position="67,140" size="100,100" zPosition="2" transparent="1" alphatest="on" />
+    <widget name="name_label1" position="67,245" size="100,33" font="Regular;16" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
+    <widget name="pixmap2" position="207,140" size="100,100" zPosition="2" transparent="1" alphatest="on" />
+    <widget name="name_label2" position="207,245" size="100,33" font="Regular;16" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
+    <widget name="pixmap3" position="350,140" size="100,100" zPosition="2" transparent="1" alphatest="on" />
+    <widget name="name_label3" position="350,245" size="100,33" font="Regular;16" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
+    <widget name="pixmap4" position="490,140" size="100,100" zPosition="2" transparent="1" alphatest="on" />
+    <widget name="name_label4" position="490,245" size="100,33" font="Regular;16" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
+    <widget name="pixmap5" position="627,140" size="100,100" zPosition="2" transparent="1" alphatest="on" />
+    <widget name="name_label5" position="627,245" size="100,33" font="Regular;16" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
+    
+    <!-- Row 2 -->
+    <widget name="pixmap6" position="67,280" size="100,100" zPosition="2" transparent="1" alphatest="on" />
+    <widget name="name_label6" position="67,385" size="100,33" font="Regular;16" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
+    <widget name="pixmap7" position="207,280" size="100,100" zPosition="2" transparent="1" alphatest="on" />
+    <widget name="name_label7" position="207,385" size="100,33" font="Regular;16" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
+    <widget name="pixmap8" position="350,280" size="100,100" zPosition="2" transparent="1" alphatest="on" />
+    <widget name="name_label8" position="350,385" size="100,33" font="Regular;16" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
+    <widget name="pixmap9" position="490,280" size="100,100" zPosition="2" transparent="1" alphatest="on" />
+    <widget name="name_label9" position="490,385" size="100,33" font="Regular;16" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
+    <widget name="pixmap10" position="627,280" size="100,100" zPosition="2" transparent="1" alphatest="on" />
+    <widget name="name_label10" position="627,385" size="100,33" font="Regular;16" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
+    
+    <!-- Row 3 -->
+    <widget name="pixmap11" position="67,413" size="100,100" zPosition="2" transparent="1" alphatest="on" />
+    <widget name="name_label11" position="67,518" size="100,33" font="Regular;16" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
+    <widget name="pixmap12" position="207,413" size="100,100" zPosition="2" transparent="1" alphatest="on" />
+    <widget name="name_label12" position="207,518" size="100,33" font="Regular;16" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
+    <widget name="pixmap13" position="350,413" size="100,100" zPosition="2" transparent="1" alphatest="on" />
+    <widget name="name_label13" position="350,518" size="100,33" font="Regular;16" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
+    <widget name="pixmap14" position="490,413" size="100,100" zPosition="2" transparent="1" alphatest="on" />
+    <widget name="name_label14" position="490,518" size="100,33" font="Regular;16" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
+    <widget name="pixmap15" position="627,413" size="100,100" zPosition="2" transparent="1" alphatest="on" />
+    <widget name="name_label15" position="627,518" size="100,33" font="Regular;16" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
+    
+    <!-- Row 4 -->
+    <widget name="pixmap16" position="67,550" size="100,100" zPosition="2" transparent="1" alphatest="on" />
+    <widget name="name_label16" position="67,655" size="100,33" font="Regular;16" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
+    <widget name="pixmap17" position="207,550" size="100,100" zPosition="2" transparent="1" alphatest="on" />
+    <widget name="name_label17" position="207,655" size="100,33" font="Regular;16" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
+    <widget name="pixmap18" position="350,550" size="100,100" zPosition="2" transparent="1" alphatest="on" />
+    <widget name="name_label18" position="350,655" size="100,33" font="Regular;16" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
+    <widget name="pixmap19" position="490,550" size="100,100" zPosition="2" transparent="1" alphatest="on" />
+    <widget name="name_label19" position="490,655" size="100,33" font="Regular;16" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
+    <widget name="pixmap20" position="627,550" size="100,100" zPosition="2" transparent="1" alphatest="on" />
+    <widget name="name_label20" position="627,655" size="100,33" font="Regular;16" halign="center" zPosition="2" transparent="1" noWrap="1" foregroundColor="white" />
+    
+    <widget name="key_red" position="870,647" size="227,53" valign="center" halign="center" zPosition="4" foregroundColor="#FF5252" font="Bold;33" transparent="1" shadowColor="#25062748" shadowOffset="-2,-2" />
+    <widget name="pixmap_red" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/EmilPanelPro/images-hd/red.png" position="880,695" size="133,20" zPosition="4" alphatest="on" />
+    
+    <widget name="key_yellow" position="1080,647" size="227,53" valign="center" halign="center" zPosition="4" foregroundColor="#FFD700" font="Bold;33" transparent="1" shadowColor="#25062748" shadowOffset="-2,-2" />
+    <widget name="pixmap_yellow" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/EmilPanelPro/images-hd/yellow.png" position="1090,695" size="133,20" zPosition="4" alphatest="on" />
+</screen>
+
+
+

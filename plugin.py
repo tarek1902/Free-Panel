@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 import sys
-sys.path.append('/usr/lib/enigma2/python/Plugins/Extensions/EmilPanelPro')
+sys.path.append('/usr/lib/enigma2/python/Plugins/Extensions/Free-Panel')
 from Screens.Console import Console
 import codecs
 import io
@@ -77,7 +77,7 @@ UPDATE_SCRIPT_URL = "https://gitlab.com/hanfy1971/plugin/-/raw/main/EMAILPANEL/F
 currversion = PLUGIN_VERSION
 descplug = "Enigma2 Tools)"
 
-plugin_path = resolveFilename(SCOPE_PLUGINS, "Extensions/EmilPanelPro")
+plugin_path = resolveFilename(SCOPE_PLUGINS, "Extensions/Free-Panel")
 skin_path = ""
 _session = None
 has_dpkg = False
@@ -1342,7 +1342,7 @@ class EmilPanel(Screen):
         except:
             pass
             
-        with codecs.open(join(skin_path, "EmilPanel.xml"), "r", encoding="utf-8") as f:
+        with codecs.open(join(skin_path, "Free-Panel.xml"), "r", encoding="utf-8") as f:
             self.skin = f.read()
 
         self.pos = get_positions("FHD" if isWQHD() or isFHD() else "HD")
@@ -1494,7 +1494,7 @@ class EmilPanel(Screen):
                 self.update_complete,
                 Console,
                 _("Updating EmilPanelPro to version %s") % PLUGIN_VERSION,
-                ["wget -O /tmp/emilpanelpro.sh %s && chmod 755 /tmp/emilpanelpro.sh && /tmp/emilpanelpro.sh" % UPDATE_SCRIPT_URL]
+                ["wget -O /tmp/Free-Panel.sh %s && chmod 755 /tmp/Free-Panel.sh && /tmp/Free-Panel.sh" % UPDATE_SCRIPT_URL]
             )
 
     def update_complete(self):
@@ -1604,7 +1604,7 @@ def main(session, **kwargs):
     session.open(EmilPanel)
 
 def menu(menuid, **kwargs):
-    return [(_("Emil Panel Pro"), main, descplug, 44)] if menuid == "mainmenu" else []
+    return [(_("Free-Panel"), main, descplug, 44)] if menuid == "mainmenu" else []
 
 def Plugins(**kwargs):
     add_skin_fonts()

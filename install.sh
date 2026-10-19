@@ -52,6 +52,8 @@ wget -O "$PLUGIN_DIR/images/progress.png" "$BASE_URL/images/progress.png"
 
 echo "Downloading section icons..."
 wget -O "$PLUGIN_DIR/images/Icons/plugins.png" "$BASE_URL/images/Icons/plugins.png"
+wget -O "$PLUGIN_DIR/picfold/selected.png" "$BASE_URL/picfold/selected.png"
+wget -O "$PLUGIN_DIR/picfold/unselected.png" "$BASE_URL/picfold/unselected.png"
 wget -O "$PLUGIN_DIR/images/Icons/skins.png" "$BASE_URL/images/Icons/skins.png"
 wget -O "$PLUGIN_DIR/images/Icons/tools.png" "$BASE_URL/images/Icons/tools.png"
 wget -O "$PLUGIN_DIR/images/Icons/system_images.png" "$BASE_URL/images/Icons/system_images.png"

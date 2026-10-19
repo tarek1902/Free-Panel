@@ -26,14 +26,14 @@ wget -O "$PLUGIN_DIR/plugin.py" "$BASE_URL/plugin.py"
 wget -O "$PLUGIN_DIR/plugin.png" "$BASE_URL/plugin.png"
 wget -O "$PLUGIN_DIR/__init__.py" "$BASE_URL/__init__.py"
 wget -O "$PLUGIN_DIR/menus/NewOeSk.py" "$BASE_URL/NewOeSk.png"
-wget -O "$PLUGIN_DIR/menus/NewOeSk.pyc" "$BASE_URL/NewOeSk.png"
-wget -O "$PLUGIN_DIR/menus__init__.py" "$BASE_URL/NewOeSk.png"
-wget -O "$PLUGIN_DIR/__init__.pyc" "$BASE_URL/NewOeSk.png"
-wget -O "$PLUGIN_DIR/skis/fhd/Console.xml" "$BASE_URL/NewOeSk.png
-wget -O "$PLUGIN_DIR/skis/fhd/Free-Panel.xml" "$BASE_URL/NewOeSk.png
-wget -O "$PLUGIN_DIR/skis/hd/Console.xml" "$BASE_URL/NewOeSk.png
-wget -O "$PLUGIN_DIR/skis/hd/Free-Panel.xml" "$BASE_URL/NewOeSk.png
-wget -O "$PLUGIN_DIR/locale/ar/LC_MESSAGES/" "$BASE_URL/NewOeSk.png
+wget -O "$PLUGIN_DIR/menus/NewOeSk.pyc" "$BASE_URL
+wget -O "$PLUGIN_DIR/menus__init__.py" "$BASE_URL
+wget -O "$PLUGIN_DIR/__init__.pyc" "$BASE_URL
+wget -O "$PLUGIN_DIR/skis/fhd/Console.xml" "$BASE_URL
+wget -O "$PLUGIN_DIR/skis/fhd/Free-Panel.xml" "$BASE_URL
+wget -O "$PLUGIN_DIR/skis/hd/Console.xml" "$BASE_URL
+wget -O "$PLUGIN_DIR/skis/hd/Free-Panel.xml" "$BASE_URL
+wget -O "$PLUGIN_DIR/locale/ar/LC_MESSAGES/Free-Panel.mo" "$BASE_URL
 
 
 echo "Downloading main images and logos..."

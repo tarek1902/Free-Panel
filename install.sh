@@ -29,7 +29,7 @@ wget -O "$PLUGIN_DIR/__init__.py" "$BASE_URL/__init__.py"
 wget -O "$PLUGIN_DIR/menus/NewOeSk.py" "$BASE_URL/NewOeSk.png"
 wget -O "$PLUGIN_DIR/menus/NewOeSk.pyc" "$BASE_URL/NewOeSk.png"
 wget -O "$PLUGIN_DIR/menus__init__.py" "$BASE_URL/NewOeSk.png"
-wget -O "$PLUGIN_DIR/__init__.py" "$BASE_URL/NewOeSk.png"
+wget -O "$PLUGIN_DIR/__init__.pyc" "$BASE_URL/NewOeSk.png"
 
 echo "Downloading main images and logos..."
 wget -O "$PLUGIN_DIR/images/logo.png" "$BASE_URL/images/logo.png"

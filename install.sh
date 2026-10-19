@@ -1,10 +1,10 @@
 #!/bin/sh
 
-PLUGIN_DIR="/usr/lib/enigma2/python/Plugins/Extensions/Tarek-panel"
-BASE_URL="https://raw.githubusercontent.com/tarek1902/MohamedStore/refs/heads/main"
+PLUGIN_DIR="/usr/lib/enigma2/python/Plugins/Extensions/Free-Panel"
+BASE_URL="https://raw.githubusercontent.com/tarek1902/Free-Panel/refs/heads/main"
 
 echo "========================================="
-echo "    Installing Tarek-panel..."
+echo "    Installing Free-Panel..."
 echo "========================================="
 
 # حذف المجلد القديم لضمان نظافة التثبيت

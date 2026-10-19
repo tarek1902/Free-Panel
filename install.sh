@@ -33,7 +33,7 @@ wget -O "$PLUGIN_DIR/skis/fhd/Console.xml" "$BASE_URL/NewOeSk.png
 wget -O "$PLUGIN_DIR/skis/fhd/Free-Panel.xml" "$BASE_URL/NewOeSk.png
 wget -O "$PLUGIN_DIR/skis/hd/Console.xml" "$BASE_URL/NewOeSk.png
 wget -O "$PLUGIN_DIR/skis/hd/Free-Panel.xml" "$BASE_URL/NewOeSk.png
-
+wget -O "$PLUGIN_DIR/locale/ar/LC_MESSAGES/" "$BASE_URL/NewOeSk.png
 
 
 echo "Downloading main images and logos..."

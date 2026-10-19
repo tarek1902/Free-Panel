@@ -27,7 +27,7 @@ wget -O "$PLUGIN_DIR/plugin.py" "$BASE_URL/plugin.py"
 wget -O "$PLUGIN_DIR/plugin.png" "$BASE_URL/plugin.png"
 wget -O "$PLUGIN_DIR/__init__.py" "$BASE_URL/__init__.py"
 wget -O "$PLUGIN_DIR/menus/NewOeSk" "$BASE_URL/NewOeSk.png"
-wget -O "$PLUGIN_DIR/menus/NewOeSk" "$BASE_URL/NewOeSk.png"
+wget -O "$PLUGIN_DIR/menus/NewOeSk.pyc" "$BASE_URL/NewOeSk.png"
 wget -O "$PLUGIN_DIR/menus/NewOeSk" "$BASE_URL/NewOeSk.png"
 wget -O "$PLUGIN_DIR/menus/NewOeSk" "$BASE_URL/NewOeSk.png"
 

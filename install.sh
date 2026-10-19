@@ -12,13 +12,14 @@ rm -rf "$PLUGIN_DIR"
 
 # إنشاء كافة المجلدات والهيكلية الأساسية والفرعية للصور والأقسام
 mkdir -p "$PLUGIN_DIR"
+mkdir -p "$PLUGIN_DIR/images-hd"
 mkdir -p "$PLUGIN_DIR/images"
-mkdir -p "$PLUGIN_DIR/images/Icons"
 mkdir -p "$PLUGIN_DIR/plugins"
 mkdir -p "$PLUGIN_DIR/skins"
 mkdir -p "$PLUGIN_DIR/tools"
-mkdir -p "$PLUGIN_DIR/system_images"
-mkdir -p "$PLUGIN_DIR/novaler"
+mkdir -p "$PLUGIN_DIR/menus"
+mkdir -p "$PLUGIN_DIR/picfold"
+mkdir -p "$PLUGIN_DIR/locale"
 
 echo "Downloading plugin core files..."
 wget -O "$PLUGIN_DIR/plugin.py" "$BASE_URL/plugin.py"

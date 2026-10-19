@@ -1,120 +1,344 @@
 +
-    EG}h,  ã                   óÒ  € ^ RI Ht RtRtRtRtRt^ RIHt ^ RI	H
+    EG}h,  ã                   óÒ  € ^ RI Ht RtRtRtRtRt^ R I Ht ^ RI	H
 t
-Ht ^ R	IHtHtHt ^ R
-IHtHtHt ^ RIHtHtHtHt ^ RIt^ RItR t]! 4        Rt]P:                  ^ ,          ^8¼  d   Rt^ RIHt ^ RI H!t! ^ RIH"t" M^ RI#Ht ^ RI#H!t! ^ RI#H"t" Rt$Rt%Rt&]! ]PN                  ](,          PR                  4      t*Rt+Rt,Rt-Rt.. R5Ot/Rt0]! R4      '       d   Rt0R6R lt1R t2R t3R t4R t5]0'       d   R  t6MR! t6]5! 4        ]Pn                  ! ]54       R" t8R# t9R$ t:R% t;R& t<R' t= ]4! 4        R( t>R) t?R7R* lt@R+ tAR, tBR8R- ltC]sDR9tE]! ]*R/4      tFR.sGR0 tHR1 tIR2 tJR3 tKR4 tLR#     L:; i):é    )Úabsolute_importÚtarekzoka900zoka@yahoo.comzCopyright (c) 2025 tarekzGPL-v2z1.0.0)Úlanguage)ÚresolveFilenameÚSCOPE_PLUGINS)ÚRT_HALIGN_RIGHTÚRT_HALIGN_LEFTÚ
-getDesktop)ÚexistsÚdirnameÚjoin)ÚpopenÚenvironÚstatvfsÚsystemNc                  óÊ   €  ^ RI p R#   \         d     Mi ; i\        P                  ^ ,          p\	        R4      '       d   RpMRpT^8X  d   RpMRp\        Y#,           4       R# )r   Nú/usr/bin/apt-getzapt-get -y install zopkg install zpython-requestszpython3-requests)ÚrequestsÚImportErrorÚsysÚversion_infor   r   )r   Úpython_versionÚpkg_managerÚpackages       ÚC/usr/lib/enigma2/python/Plugins/Extensions/EmilPanelPro/__init__.pyÚcheck_and_install_requestsr      sb   € ğÛÙøÜô Ùğúä×"Ñ" 1Õ%€Ü
-Ğ×ÒØ%+à€+àaÔØ'à€'ÜˆÕÖs   ‚ ˆ•FT©Úurlopen©ÚURLError)ÚRequestzConsole.pyc (Addons Panel)ÚEmilPanelProzExtensions/Console.pyc/localeznMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.3zOhttps://github.com/emilnabil/download-plugins/raw/refs/heads/main/Console.pyc.xmlzrwget https://github.com/emilnabil/download-plugins/raw/refs/heads/main/EmilPanelPro/emilpanelpro.sh -O - | /bin/shz7https://api.github.com/repos/emilnabil/download-pluginsr   c                 óè   € ^ RI p VP                  V4       VP                  VP                  VP                  4      P	                  W34       R#   \
-         d   p\        RT4        Rp?R# Rp?ii ; i)r   NTzerror: F)ÚsocketÚsetdefaulttimeoutÚAF_INETÚSOCK_STREAMÚconnectÚ	ExceptionÚprint)ÚhostÚportÚtimeoutr$   Úes   &&&  r   Ú	CheckConnr/   S   s]   € ÛğØ×Ñ˜7Ô#Ø‡--—‘ × 2Ñ 2Ó3×;Ñ;¸T¸LÔIÙ	øÜô Üˆ	1Ôİ	ûğús   †AA ÁA1ÁA,Á,A1c                 ó   € ^ RI Hp V! 4       p VP                  P                  V 4       V#    TP                  P                  T 4        T# ; i)r   )ÚeTimer)Úenigmar1   r-   r(   ÚcallbackÚappend)Úcallback_methodr1   Útimers   &  r   Úsetup_timerr7   ^   sH   € İÙ	‹€ğ)à‡--×Ñ˜Ô(ğ
- 	€øğ	)à‡..×Ñ˜Õ(à€ús	   , ¬Ac                óL  € \        R4       RpRp^ RIp VP                  V4      P                  R4      pVP	                  R4      '       g   \        R4      h\        VRVRR	/R
-7      p\        V^R7      ;_uu_ 4       pVP                  4       ^È8w  d!   \        RVP                  4       ,          4      hVP                  4       P                  R4      p	V	'       Ed   V	P                  R4      p
+H
+t
+ ^ R	IH
+t
+HtHt ^ R
+IHtHtHt ^ R
+IHtHtHtHt ^ RIt^ RItR
+ t]! 4        Rt]P:                  ^ ,          ^8¼  d   Rt^ RIHt ^ RI H!t! ^ RIH"t" M^ RI#Ht ^ RI#H!t! ^ RI#H"t" Rt$Rt%Rt&]! ]PN                  ](,          PR                  4      t*Rt+Rt,Rt-Rt.. R5Ot/Rt0]! R4      '       d   Rt0R6R lt1R t2R t3R t4R t5]0'       d   R  t6MR! t6]5! 4        ]Pn                  ! ]54       R" t8R# t9R$ t:R% t;R& t<R' t= ]4! 4        R( t>R) t?R7R* lt@R+ tAR, tBR8R- ltC]sDR9tE]! ]*R/4      tFR.sGR0 tHR1 tIR2 tJR3 tKR4 tLR#     L:; i):é    )Úabsolute_importÚtarekzoka900zoka@yahoo.comzCopyright (c) 2025 tarekzGPL-v2z1.0.0)Úlanguage)ÚresolveFilenameÚ
+SCOPE_PLUGINS)ÚRT_HALIGN_RIGHTÚRT_HALIGN_LEFTÚ
+getDesktop)ÚexistsÚ dirnameÚjoin)ÚpopenÚ environÚ statvfsÚsystemNc                  óÊ   €  ^ RI p R#   \         d     Mi ; i\        P                  ^ ,          p\	        R4      '       d   RpMRpT^8X  d   RpMRp\
+        Y#,           4       R# ) r   Nú/usr/bin/apt-getzapt-get -y install z
+opkg install zpython-requestszpython3-requests)ÚrequestsÚ
+ImportErrorÚsysÚversion_infor
+   r   )r   Úpython_versionÚ
+pkg_managerÚ packages       ÚC/usr/lib/enigma2/python/Plugins/Extensions/Free-Panel/__init__.pyÚcheck_and_install_requestsr      sb   € ğ ÛÙøÜô  Ùğ úä×"Ñ" 1Õ%€Ü
+Ğ
+×ÒØ%+à€+àaÔØ'à€'Ü ˆ
+ÕÖs   ‚ ˆ
+•FT©Ú urlopen©ÚURLError)Ú RequestzConsole.pyc (Addons Panel)ÚFree-PanelzExtensions/Console.pyc/localeznMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.3zOhttps://github.com/tarek1902/Free-Panel/raw/refs/heads/main/Console.pyc.xmlzrwget https://raw.githubusercontent.com/tarek1902/Free-Panel/refs/heads/main/install.sh -O - | /bin/shz7https://api.github.com/repos/tarek1902/Free-Panelsr   c                 óè   € ^ RI p VP                  V4       VP                  VP                  VP                  4      P	                  W34       R#   \
+         d   p\
+        RT4        Rp?R# Rp?ii ; i)r   NTz error: F) ÚsocketÚsetdefaulttimeoutÚ AF_INETÚ
+SOCK_STREAMÚ connectÚ	ExceptionÚprint)ÚhostÚportÚ timeoutr$   Úes   &&&  r   Ú	CheckConnr/   S   s]   € ÛğØ×Ñ˜7Ô#Ø‡--—‘ × 2Ñ 2Ó3×;Ñ;¸T¸LÔIÙ	
+øÜô Ü ˆ	1Ôİ	ûğús   †A A Á
+A1ÁA,Á,A1c                 ó   € ^ RI Hp V! 4       p VP                  P                   V 4       V#    TP                  P
+                  T 4        T# ; i)r   )ÚeTimer)Úenigmar1   r-   r(   ÚcallbackÚappend)Úcallback_methodr1   Útimers   &  r   Ú
+setup_timerr7   ^   sH   € İÙ	‹€ğ)à ‡--×Ñ˜Ô(ğ
+ 	€øğ	)à ‡..×Ñ˜Õ(à
+€ús	   , ¬Ac                 óL  € \        R4       RpRp^ RIp VP                  V4      P                   R4      pVP	                  R4      '       g   \
+        R4      h\
+        VR VRR	/R
+7      p \        V ^R
+7      ;_uu_ 4       pVP                  4       ^È8w  d!   \        RVP                  4       ,          4      hVP                  4       P                   R4      p	V	'       Ed    V	P                  R
+4      p
 RpRpV
- FÃ  pVP	                  R4      '       dH   VP                  R4      p\        V4      ^8”  d'   V^,          P                  4       P                  R4      pVP	                  R4      '       g   Kz  VP                  R4      p\        V4      ^8”  g   K  V^,          P                  4       P                  R4      p M	  T;'       g    RpT;'       g    RpWŞW8  3uuRRR4       #  RRR4       R#   + '       g   i     R# ; i  \         d   p\        RT4       Ru Rp?# Rp?ii ; i)z9Controllo versione con gestione avanzata formato numericoz[Version Check] Starting...z0.0zNo changelog availableNúutf-8zInvalid URL protocolú
-User-AgentzCache-Controlzno-cache©Úheaders©r-   zHTTP Status: %dÚ
-ÚversionÚ=Ú'Ú	changelogÚUnknownzError while checking version:)zhttp://zhttps://)NNF)r*   Úbase64Ú	b64decodeÚdecodeÚ
+ FÃ  p
+V
+P	                  R4      '       dH   V
+P                  R4      p\        V4      ^8”  d'   V^,          P                  4       P                  R4      pV
+P	                  R4      '       g   Kz  V
+P                  R4      p\        V4      ^8”  g   K  V^,          P                  4       P                  R4      p M	  T;'       g    Rp
+T;'       g    RpWŞW8  3uuRRR4       #  RRR4       R#   + '       g   i     R# ; i  \         d   p\        RT4       Ru Rp?# Rp?ii ; i)z9Controllo versione con gestione avanzata formato numericoz[Version Check] Starting...z0.0zNo changelog availableNúutf-8zInvalid URL protocolú
+User-Agentz
+Cache-Controlzno-cache©Ú headers©r-   zHTTP Status: %dÚ
+Ú versionÚ=Ú'Ú	changelogÚ UnknownzError while checking version:)z http://zhttps://)NNF)r*   Úbase64Ú	b64decodeÚdecodeÚ
 startswithÚ
-ValueErrorr!   r   Úgetcoder    ÚreadÚsplitÚlenÚstripr)   )ÚcurrversionÚinstaller_urlÚAgentRequestÚremote_versionÚremote_changelogrD   Údecoded_urlÚreqÚresponseÚdataÚlinesÚlineÚpartsÚnew_versionÚnew_changelogr.   s   &&&             r   Úcheck_versionr\   k   sİ  € ô Ğ$Ô%Ø€Ø,ĞÛğ*Ø× Ñ  Ó/×6Ñ6°wÓ?€+Ø	×	Ñ	Ğ 7×	8Ò	8Ü	Ğ*Ó	+Ğ+äØà,ØZğô	€#ô ˆs˜B×Õ 8Ø×ÑÓ˜CÔÜ
+ValueErrorr!   r   Ú getcoder    ÚreadÚsplitÚlenÚstripr)   )Ú
+currversionÚ
+installer_urlÚAgentRequestÚremote_versionÚremote_changelogrD   Ú
+decoded_urlÚreqÚresponseÚdataÚlinesÚlineÚpartsÚ
+new_versionÚ
+new_changelogr.   s   &&&             r   Ú
+check_versionr\   k   sİ  € ô  Ğ $Ô%Ø€Ø,ĞÛğ*Ø× Ñ  Ó/×6Ñ6°wÓ?€+Ø	×	Ñ	Ğ 7×	8Ò	8Ü	Ğ*Ó	+Ğ+äØà,ØZğô	€#ô ˆs˜B× Õ  8Ø×ÑÓ˜CÔÜ
 Ğ$ x×'7Ñ'7Ó'9Õ9Ó
 :Ğ:à
 -‰-‹/×
  Ñ
   Ó
 )€4ç
-€dØJ‰JtÓ€EØ€NØ/ĞãˆØ‰˜	×"Ò"Øj‰j˜‹o€eÜ	ˆU‹aŒØ˜aŸ™Ó(×.Ñ.¨sÓ3€~Ø‰˜×$Ô$Øj‰j˜‹o€eÜ	ˆU‹aØ (Ÿ.™.Ó*×0Ñ0°Ó5ĞÙñ ğ !×-Ğ- I€KØ$×@Ğ@Ğ(@€Mà {Ñ'CĞC÷3  Òğ ÷  ××Òûô6 	ô ÜĞ'¨Ô+Ø	Õûğúsb   •A(H  Á=AG,ÃBG,Å,G,Æ2G,ÇG,ÇG,Ç
-H  Ç"H  Ç,G=	Ç7H  Ç=H  È H#ÈHÈH#ÈH#c                  óĞ   € R p Rp\        V4      P                  4       pRVP                  4       9  d4   \        R4      '       d   Rp\        V4       Rp V # Rp\        V4       Rp V # R# )Fzfind /usr/bin -name "wget"Úwgetz/var/lib/dpkg/statusz&apt-get update && apt-get install wgetTz opkg update && opkg install wgetN)r   rJ   Úlowerr   )ÚwgetstsÚcmd22ÚresÚcmd23s       r   r`   r`   Ÿ   sm   € Ø€Ø	%€ÜˆUƒ|×ÑÓ€Ø
-#—)‘)“+ÔÜĞ"×#Ò#Ø3€5Üˆ„<Ø€7ğ
+€dØJ‰JtÓ€EØ€NØ/ĞãˆØ‰˜	×"Ò"Øj‰j˜‹o€eÜ	ˆU‹aŒØ˜aŸ™Ó(×.Ñ.¨sÓ3€~Ø‰˜
+×$Ô$Øj‰j˜‹o€eÜ	ˆU‹aØ (Ÿ.™.Ó*×0Ñ0°Ó5Ğ Ù ñ ğ !×-Ğ- I€KØ$×@Ğ@Ğ(@€Mà
+ {Ñ'CĞ
+C÷3  Ò ğ  
+÷
+  × × Ò ûô6 	ô Ü Ğ'¨Ô+Ø	Õûğúsb   •A(H  Á=AG,ÃBG,Å,G,Æ2G,Ç
+G,ÇG,Ç
+H  Ç"H  Ç,
+G=	Ç7H  Ç=H  È 
+H#È
+
+HÈH#ÈH#c                  óĞ   € R p Rp\        V4      P                  4       pRVP                  4       9  d4   \         R4      '       d   Rp\        V4       Rp V # Rp\        V4       Rp V # R # )Fzfind /usr/bin -name "wget"Úwgetz/var/lib/dpkg/statusz&apt-get update && apt-get install wgetTz opkg update && opkg install wgetN)r   rJ   Úlowerr
+   )Ú wgetstsÚcmd22ÚresÚcmd23s       r   r`   r`   Ÿ   sm   € Ø
+€Ø	%€Ü ˆUƒ|× Ñ Ó €Ø
+#—)‘)“+ÔÜ
+Ğ"×#Ò#Ø
+3€5Üˆ„<Ø
+€7ğ
  
-€.ğ .€5Üˆ„<Ø€7Ø	€.ñ ó    c                  óÂ   € \         '       d&   \        P                  ! 4       R ,          p V \        R&   \        P
+€.ğ  .€5Üˆ„<Ø
+€7Ø	€.ñ ó    c                   óÂ   € \         '       d&   \        P                  ! 4       R ,          p V \        R&   \        P
                   ! \        \        \        \        4      4       R# ):Né   NÚLANGUAGEN)
-Ú	isDreamOSr   ÚgetLanguager   ÚgettextÚbindtextdomainÚPluginLanguageDomainr   r   ÚPluginLanguagePath)Úlangs    r   Ú
-localeInitro   ¯   s=   € ßƒIÜ	×	Ò	Ó	 Õ	#€$Ø„'ˆ*ÑÜ×ÒÔ,¬o¼mÔM_Ó.`Öard   c                 óL   € V '       d   \         P                  ! \        V 4      # R # )Ú )rj   Údgettextrl   )Útxts   &r   Ú_rt   ·   s   € ß8;Œ×	Ò	Ô.°Ó	4ĞCÀĞCrd   c                 ó¦   € \         P                  ! \        V 4      pV'       d   V# \        R \        : RV : 24       \         P                   ! V 4      # )Ú[z&] fallback to default translation for )rj   rr   rl   r*   )rs   Ú
+Ú	isDreamOSr   Ú
+getLanguager   Ú gettextÚbindtextdomainÚPluginLanguageDomainr   r    ÚPluginLanguagePath)Úlangs    r   Ú
+localeInitro   ¯   s=   € ß
+ƒIÜ	×	Ò	Ó	 Õ	#€$Ø„'ˆ*ÑÜ×ÒÔ,¬o¼mÔM_Ó.`Öard   c                 óL   € V '       d   \         P                  ! \        V 4      # R # )Ú )rj   Údgettextrl   )Útxts   &r   Ú_rt   ·   s   € ß8;Œ×	Ò	Ô.°Ó	4ĞCÀĞCrd   c                 ó¦   € \         P                  ! \        V 4      pV'       d   V# \         R \        : RV : 24       \         P                   ! V 4      # )Ú[z&] fallback to default translation for )rj   rr   rl   r*   )rs   Ú
 translateds   & r   rt   rt   º   s<   € Ü×ÒÔ 4°cÓ:€*ßØ
 Ğå×;OÒQTĞ
 UÔWÜ
 /Š/˜#Ó
-Ğrd   c                  ót   € \        ^ 4      P                  4       p V P                  4       V P                  4       3# )r   )r
+Ğrd   c                  ót   € \        ^ 4      P                  4       p V P                  4       V P                   4       3# )r   )r
    ÚsizeÚwidthÚheight)Úss    r   ÚgetDesktopSizer}   Å   s+   € Üƒ]×ÑÓ€Ø	
 ‰‹A—H‘H“JĞĞrd   c                  ó.   € \        4       p V ^ ,          R8¬  # )r   i 
-  ©r}   ©ÚdesktopSizes    r   ÚisWQHDr‚   Ê   ó   € ÜÓ€ØA˜$ÑĞrd   c                  ó.   € \        4       p V ^ ,          R8¬  # )r   i€  r   r€   s    r   ÚisFHDr…   Ï   rƒ   rd   c                  ó.   € \        4       p V ^ ,          R8*  # )r   i   r   r€   s    r   ÚisHDr‡   Ô   rƒ   rd   c                  ó*   € ^ RI Hp  V ! \        4      pV# )r   )Úchoice)Úrandomr‰   ÚListUrl)r‰   Ú	RandomUrls     r   Ú
-RequestUrlr   Ù   s   € İÙ”G‹_€ØĞrd   c                  óp   € ^ RI Hp  ^ RIHpHp V P                  4        V P                  V! V4      4       R# )r   )Úplugins)r   r   N)ÚComponents.PluginComponentr   ÚTools.Directoriesr   r   ÚclearPluginListÚreadPluginList)r   r   r   s      r   ÚrefreshPluginsr”   ß   s'   € İ/ß=Ø×ÑÔØ×Ñ™¨Ó6Ö7rd   c                 óÚ   € ^ RI pV ^ 8X  d   R# Rp\        VP                  VP                  V R4      4      4      pVP	                  RV4      p\        W,          ^4      pV: RW#,          : 2# )r   NÚ0Bi   Ú )ÚBÚKBÚMBÚGBÚTB)ÚmathÚintÚfloorÚlogÚpowÚround)Ú
-size_bytesr   Ú	size_nameÚiÚpr|   s   &     r   Úconvert_sizer§   ì   s]   € ÛØ!„OÙ	Ø*€Üˆ‰D—H‘H˜Z¨Ó.Ó	/Ó0€Ø	‡XXˆdAÓ€Ü
-ˆ:>˜1Ó€Ûi—lĞ#Ğ#rd   c                  ó  €  \        R 4      p V P                  V P                  ,          pV P                  V P                  ,          p\	        \        V4      4      p\	        \        V4      4      p\        R4      R,           \        V4      ,           R,           \        R4      ,           R,           \        V4      ,           pV#   \         d@   p\        RT4       \        R4      R,           \        R4      ,           R,           u Rp?# Rp?ii ; i)Ú/zFree Space:r—   ÚofzError getting disk space:z -?- z -?-N)
-r   Úf_bfreeÚf_bsizeÚf_blocksr§   Úfloatrt   Ústrr)   r*   )ÚstatÚ
-free_bytesÚtotal_bytesÚfspaceÚtotal_spaceÚspacestrr.   s          r   Ú	freespacer¶   ø   sÅ   € ğ
-7Ü	‹€$Ø|‰|˜dŸl™lÕ*€*Ø—‘ §¡Õ,€+Üœ˜jÓ)Ó*€&ÜœU ;Ó/Ó0€+Üˆ}Ó Õ#¤c¨&£kÕ1°CÕ7¼!¸D»'ÕAÀCÕGÌ#ÈkÓJZÕZ€(Ø	€/øÜô 7ÜĞ# QÔ'Ü	
-ˆ=Ó	˜GÕ	#¤a¨£gÕ	-°Õ	6Õ6ûğ7ús   ‚B>C ÃDÃ4DÄ DÄDc                 óH  € ^ RI p^ RIpVP                  ^ ,          ^8X  d   ^ RIHp ^ RIHp RpM^ RIHp ^ RIHp Tp\        V4       Fd  p	 V! WR7      p
+  ©r}   ©Ú
+desktopSizes    r   ÚisWQHDr‚   Ê   ó   € ÜÓ€ØA˜$ÑĞrd   c                  ó.   € \        4       p V ^ ,          R8¬  # )r   i€   r   r€   s    r   ÚisFHDr…   Ï   rƒ   rd   c                  ó.   € \        4       p V ^ ,          R8*  # )r   i   r   r€   s    r   ÚisHDr‡   Ô   rƒ   rd   c                  ó*   € ^ RI Hp  V ! \        4      pV# )r   )Úchoice)Úrandomr‰   Ú ListUrl)r‰   Ú	RandomUrls     r   Ú
+RequestUrlr   Ù   s   € İÙ
+”G‹_€ØĞrd   c                  óp   € ^ RI Hp  ^ RIHpHp V P
+                  4        V P
+                  V! V4      4       R# )r   )Ú plugins)r    r   N) ÚComponents.PluginComponentr   ÚTools.Directoriesr    r   ÚclearPluginListÚreadPluginList)r   r    r   s      r   ÚrefreshPluginsr”   ß   s'   € İ/ß=Ø×ÑÔØ×Ñ™¨
+Ó6Ö7rd   c                 óÚ   € ^ RI pV ^ 8X  d   R# Rp\        VP                  VP                   V R4      4      4      pVP	                  RV4      p\
+        W,
+          ^4      pV: RW#,          : 2# )r   NÚ0Bi   Ú )ÚBÚKBÚMBÚGBÚTB)ÚmathÚintÚfloorÚlogÚpowÚround)Ú
+size_bytesr   Ú	size_nameÚiÚpr|   s   &     r   Úconvert_sizer§   ì   s]   € ÛØ!„OÙ	
+Ø
+*€Üˆ‰D—H‘H˜Z¨Ó.Ó	/Ó0€Ø	‡XXˆdAÓ€Ü
+ˆ:>˜1Ó€Ûi—lĞ#Ğ#rd   c                  ó  €  \        R 4      p V P                  V P                  ,          pV P                  V P                  ,          p\	        \
+        V4      4      p\	        \
+        V4      4      p\
+        R4      R,           \        V4      ,           R,           \
+        R4      ,           R,           \        V4      ,           pV#   \         d@   p\        RT4       \
+        R4      R,           \
+        R4      ,           R,           u R p?# R p?ii ; i)Ú/z
+Free Space:r—   ÚofzError getting disk space:z -?- z -?-N)
+r   Ú f_bfreeÚ f_bsizeÚf_blocksr§   Úfloatrt   Ústrr)   r*   ) ÚstatÚ
+free_bytesÚ
+total_bytesÚfspaceÚ
+total_spaceÚspacestrr.   s           r   Ú	freespacer¶   ø   sÅ   € ğ
+7Ü	‹€$Ø|‰|˜dŸl™lÕ*€*Ø—
+‘
+ §¡Õ,€+Ü
+œ˜jÓ)Ó
+*€&ÜœU ;Ó/Ó0€+Ü
+ˆ}Ó
+ Õ
+#¤c¨&£kÕ
+1°CÕ
+7¼!¸D»'Õ
+AÀCÕ
+GÌ#ÈkÓJZÕ
+Z€(Ø	€/øÜô 7Ü Ğ# QÔ'Ü	
+ˆ=Ó	˜GÕ	#¤a¨£gÕ	-°Õ	6Õ6ûğ7ús   ‚B>C Ã
+D
+Ã4DÄ D
+ÄD
+c                 óH  € ^ RI p^ RIpVP                  ^ ,          ^8X  d   ^ RIHp ^ RIHp Rp M^ RI Hp ^ RI Hp Tp\        V4       Fd  p	 V! WR7      p
 V
-P                  4       pV
-P                  4        RpV F-  pX'       d   VP                  4       pV\        V4      ,          pK/  	  Vu # 	  R#   TP                   d     \        RT,          4       T^,          p K™  T d   p\        RT4        Rp? R# Rp?i\         d   p\        R	T4        Rp? R# Rp?ii ; i)
+P                  4       p
+V
+P                  4        RpV
+ F-  p
+X '       d   V
+P                  4       p
+V\        V
+4      ,
+          pK/  	  Vu # 	  R#   TP                   d     \        R T,          4       T^,          p K™  T d   p\        RT4        Rp? R# Rp?i\         d   p\        R	T4        Rp? R# Rp?ii ; i)
 r   Nr   r   Tr=   rq   z:Attempt failed: The connection timed out after %s seconds.z
-URL Error:zError:)r   r$   r   Úurllib.requestr   Úurllib.errorr    Úurllib2ÚrangeÚ	readlinesÚcloserF   r¯   r-   r*   r)   )ÚurlÚretriesÚinitial_timeoutr   r$   r   r    ÚPY3r-   r¥   ÚfprW   Ú	labeltextrX   r.   s   &&&            r   Ú	fetch_urlrÄ     sü   € ÛÛØ×ÑQÕ˜1Ôİ&İ#à#åİØ€Ü
-.€Qğ	ÙÔ%€2Ø<‰<‹>€5Ø‡88„:Ø€9Û€tß
-ØK‰K‹M€TØ”T“Õ‚Iñ ğ Òñ ñ( 	øğ 
-‰ô ÜĞ	EÈÕ	OÔPØ
-ˆa…<ƒ7Ø	ô 	ÜˆqÔÜñ 	ûô 
-ô 	Üˆ1ÔÜÙûğ	ús7   ÁAB3Â3,D!Ã"D!Ã'D!Ã(C;Ã;D!ÄD!Ä	DÄD!c                 ó  € T p ^ RI Hp ^ RIp^ RIp^ RIpVP
+URL Error:zError:)r   r$   r   Úurllib.requestr   Úurllib.errorr    Ú urllib2ÚrangeÚ	readlinesÚcloserF   r¯   r-   r*   r)   )ÚurlÚ retriesÚinitial_timeoutr   r$   r   r    ÚPY3r-   r¥   ÚfprW   Ú	labeltextrX   r.   s   &&&            r   Ú	fetch_urlrÄ      sü   € Û
+ÛØ ×ÑQÕ˜1Ôİ&İ#à#åİØ
+€Ü
+ .€Qğ	ÙÔ%€2Ø
+
+<‰<‹>€5Ø‡88„:Ø€9Û€tß 
+ØK‰K‹M€TØ
+”T“Õ‚Iñ  ğ 
+Òñ 
+ñ( 	
+øğ 
+‰ô ÜĞ	EÈ Õ	OÔPØ
+ˆa…<ƒ7Ø	ô 	ÜˆqÔÜñ 	
+ûô  
+ô 	Üˆ1ÔÜÙûğ 	ús7   Á
+AB3Â3,D!Ã"D!Ã'D!Ã(C;Ã;D!ÄD!Ä	DÄD!c                 ó  € T p ^ RI Hp ^ RIp^ RIp^ RIpVP
                   ^ ,          ^8X  d
-   ^ RIHpHp M^ RI	HpHp R\        /pRpV! WR7      p	 V! V	^
-R7      pVP                  4       P                  R4      R8X  dp   V! VP                  4       4      p
+   ^ RIH pHp M^ RI	H pHp R\        /p RpV! W R7      p	 V! V	^
+R7      pVP                  4       P                  R 4      R8X  dp   V! VP                  4       4      p
 VP                  V
-R	7      pVP
-                  ^ ,          ^8X  d    VP                  4       P                  R
-4      # VP                  4       # VP
+R	7      p
+VP
+                  ^ ,          ^8X  d    V
+P                  4       P                  R
+4      # V
+P                  4       # VP
                   ^ ,          ^8X  d    VP                  4       P                  R
-4      # VP                  4       #   TP                   P"                   d   p\%        RT4        Rp?R# Rp?i\&         d   p\%        RT4        Rp?R# Rp?ii ; i)r   )ÚStringION©r   r!   r:   r;   r=   zContent-EncodingÚgzip)Úfileobjr9   zRequest error:zUnexpected error:)ÚiorÆ   rÈ   r   r   r   r¸   r   r!   rº   rP   ÚinfoÚgetrJ   ÚGzipFilerF   Ú
-exceptionsÚRequestExceptionr*   r)   )r¾   rÆ   rÈ   r   r   r   r!   ÚhdrrU   ÚrequestÚbufferÚdeflatedContentr.   s   &            r   Ú	checkGZIPrÔ   *  sP  € Ø
-€İÛÛÛØ×ÑQÕ˜1Ôß/Ğ/ç(à”lĞ#€Ø€Ù3Ô$€ğ ÙW bÔ)€(Ø‡]]ƒ_×ÑĞ+Ó,°Ô6ÙX—]‘]“_Ó%€6Ø—]‘]¨6]Ó2€?Ø	×ÑqÕ˜QÔØ×ÑÓ!×(Ñ(¨Ó1Ğ1à×ÑÓ!Ğ!à	×ÑqÕ˜QÔØ=‰=‹?×!Ñ! 'Ó*Ğ*à=‰=‹?Ğøà×Ñ×,Ñ,ô ÜĞ˜!×Ğñ 	ûô 	ô  ÜĞ˜Q×ĞÙûğ ús=   ÁBD6 ÃD6 Ã/6D6 Ä&D6 Ä6FÅE#Å#FÅ0FÅ1FÆFc                 ó  € \        V 4      P                  4       p ^ RIp^ RIp VP	                  V 4      pVP
-                  ^ ,          ^8X  d   VP                  R4      pV#   \         d›    \        T 4      ^,          pT^8X  d   \        RP                  T 4      4        R# T^8X  d   T R,          p MT^8X  d   T R,          p M R# TP	                  T 4      pTP
-                  ^ ,          ^8X  d   TP                  R4      pTu # i ; i)r   Nr9   zInvalid base64 string: {}rq   s   ==ó   =)r¯   rM   rD   r   rE   r   rF   r)   rL   r*   Úformat)r|   rD   r   ÚoutputÚpaddings   &    r   Ú
-b64decoderrÚ   N  så   € ÜˆƒV‡\\ƒ^€ÛÛğØ×Ñ˜AÓ€&Ø×ÑaÕ˜AÔØM‰M˜'Ó"€6Ø	€-øÜô Ü‹FQJ€'Ø„\ÜĞ	$×	+Ñ	+¨AÓ	.Ô/Ú
-Ø!„|Øˆ…:1Ø!„|Øˆ…91â
-Ø×Ñ˜AÓ€&Ø×ÑaÕ˜AÔØM‰M˜'Ó"€6Ø	‚-ğús   £;A Á>DÂ "DÃ<DÄDc                 ó  € ^ RI p^ RIp^ RIp^ RIpVP                  ^ ,          ^8X  d   ^ RIHpHp ^ RIH	p	 M^ RI
-HpHp ^ RI
+4      # VP                  4       #   TP                   P"                   d   p\%        R
+T4        Rp?R# Rp?i\&         d   p\%        RT4        Rp?R# Rp?ii ; i)
+r   )ÚStringION©r   r!   r:   r;   r=   zContent-EncodingÚgzip)Ú fileobjr9   zRequest error:zUnexpected error:)ÚiorÆ   rÈ   r   r   r   r¸   r   r!   rº   rP   ÚinfoÚgetrJ   ÚGzipFilerF   Ú
+exceptionsÚRequestExceptionr*   r)   )
+r¾   rÆ   rÈ   r   r   r   r!   ÚhdrrU   Ú requestÚbufferÚdeflatedContentr.   s
+   &            r   Ú	checkGZIPrÔ   *  sP  € Ø 
+€İÛÛÛ
+Ø ×ÑQÕ˜1Ôß/Ğ/ç(à”lĞ #€Ø€Ù
+3Ô
+$€ğ Ù
+W bÔ
+)€(Ø
+‡]]ƒ_×ÑĞ+Ó,°Ô6ÙX—]‘]“_Ó%€6Ø—]‘]¨6]Ó2€?Ø	×ÑqÕ˜QÔØ
+×
+Ñ
+Ó
+!×
+(Ñ
+(¨Ó
+1Ğ1à
+×
+Ñ
+Ó
+!Ğ!à	×ÑqÕ˜QÔØ
+=‰=‹?×
+!Ñ
+! 'Ó
+*Ğ*à
+=‰=‹?Ğøà×Ñ×,Ñ,ô Ü Ğ˜!×Ğñ 	
+ûô 	ô  Ü Ğ˜Q×ĞÙûğ ús=   ÁBD6 ÃD6 Ã/6D6 Ä&D6 Ä6FÅE#Å#FÅ0FÅ1FÆFc                 ó  € \        V 4      P                  4       p ^ RIp^ RIp VP	                  V 4      pVP
+                  ^ ,          ^8X  d   VP
+                  R4      pV#   \         d›    \        T 4      ^,          pT^8X  d   \        RP                  T 4      4        R# T^8X  d
+   T R,
+          p MT^8X  d
+   T R,
+          p M R# TP	                  T 4      pTP
+                  ^ ,          ^8X  d   TP
+                  R4      pTu # i ; i) r   Nr9   zInvalid base64 string: {}rq   s   ==ó   =)
+r¯   rM   rD   r   rE   r   rF   r)   rL   r*   Úformat)r|   rD   r   ÚoutputÚ paddings   &    r   Ú
+b64decoderrÚ   N  så   € ÜˆƒV‡\\ƒ^€ÛÛ
+ğØ
+×
+Ñ
+˜AÓ
+€&Ø×ÑaÕ˜AÔØM‰M˜'Ó"€6Ø	€-øÜô Ü‹FQJ€'Ø„\ÜĞ	$×	+Ñ	+¨AÓ	.Ô/Ú
+Ø !„|Øˆ…:1Ø !„|Øˆ…91â
+Ø
+×
+Ñ
+˜AÓ
+€&Ø×ÑaÕ˜AÔØM‰M˜'Ó"€6Ø	‚-ğús   £;A Á>DÂ "DÃ<DÄDc                 ó  € ^ RI p^ RIp^ RIp^ RIpVP                  ^ ,          ^8X  d   ^ RIHp H p ^ RIH	p	 M^ RI
+Hp H p ^ RI
 H	p	 \        V4       F€  p
- V! V 4      pVP                  R\        4       V! VR^4      pVP                  4       ^È8X  d@   VP                  4       pV'       g    R#  VP!                  VRR7      p\%        R	V4       Vu # K‚  	  \%        R4       R#   \"         d"    \%        R4       TP'                  RRR7      p LLi ; i  T	 dp   p\)        TP*                  TP,                  4      '       d)   T^T
+ V! V 4      p
+V
+P                  R\        4       V ! V
+R^4      pVP                  4       ^È8X  d@   VP                  4       p
+V
+'       g    R#  VP!                  V
+RR7      p
+\%        R	V
+4       V
+u # K‚  	  \%        R
+4       R#   \"         d"    \%        R 4       T
+P'                  RRR7      p
+ LLi ; i  T	 dp   p\)        TP*                  TP,                  4      '       d)   T^T
 ,          ,          pTP/                  T4        Rp?EK  \%        R
-\1        T4      4        Rp? R# Rp?ii ; i)r   NrÇ   r   r:   Úreplace)Úerrorsz0Decoding error with 'utf-8', trying 'latin-1'...zlatin-1z$Contenuto decodificato con latin-1:
+\1        T4      4        Rp? R# Rp?ii ; i)r   NrÇ   r   r:   Ú replace)Úerrorsz0Decoding error with 'utf-8', trying 'latin-1'...z latin-1z$Contenuto decodificato con latin-1:
 zURLError occurred:zMax retries reached.)Útimer$   r   Úsixr   r¸   r   r!   r¹   r    rº   r»   Ú
 add_headerrP   rI   rJ   Ú
 ensure_strÚUnicodeDecodeErrorr*   rF   Ú
-isinstanceÚreasonr-   Úsleepr¯   )r¾   Úmax_retriesÚ
-base_delayrŞ   r$   r   rß   r   r!   r    ÚattemptrT   rU   Úcontentr.   Údelays   &&&             r   Úmake_requestrë   h  sE  € ÛÛÛÛà×ÑQÕ˜1Ôß/Ş#ç(İäkÖ"€WğÙ	‹€3Ø‡>>,¤Ô-ác˜4 Ó$€8à×ÑÓ˜CÔØm‰m‹o€GßÚğ;Ø~‰~˜g¨iˆ~Ó8€Wô 
+isinstanceÚreasonr-   Úsleepr¯   )r¾   Ú
+max_retriesÚ
+base_delayrŞ   r$   r   rß   r   r!   r    Ú attemptrT   rU   Ú contentr.   Údelays   &&&             r   Úmake_requestrë   h  sE  € ÛÛÛ
+Û
+à ×ÑQÕ˜1Ôß/Ş#ç(İäkÖ"€WğÙ	‹€3Ø‡>>,¤Ô-ác˜4 Ó$€8à×ÑÓ˜CÔØm‰m‹o€Gß
+Úğ;Ø~‰~˜g¨iˆ~Ó8€Wô 
 Ğ
-1°7Ô;Ø‚Nñ  ñ #ô4 ĞÔÙøô ô ;Ü
-Ğ=Ô>Ø~‰~˜i°	ˆ~Ó:‚Wğ;ûğ
+1°7Ô;Ø
+‚Nñ   ñ #ô4  Ğ ÔÙøô ô ;Ü
+Ğ
+=Ô>Ø~‰~˜i°	ˆ~Ó:‚Wğ;ûğ
  
-ô Ü—‘˜6Ÿ>™>×*Ò*Ø˜!˜w,Õ'€Eà‡JJˆu×Óä	Ğ
-¤ A£Ô'ŞûğúsD   ÁADÂ.C"ÃDÃ")DÄDÄDÄDÄFÄAFÅ&FÆFÚenÚfontsc                 óÖ   €  ^ RI Hp  V P                  P                  P                  pRV9   d   VP                  R4      ^ ,          # T#   \        \        \        3 d
+ô  Ü—‘˜6Ÿ>™>×*Ò*Ø˜!˜w,Õ'€Eà‡JJˆu×Óä	Ğ
+¤ A£Ô'Ş
+ûğ úsD   ÁADÂ.C"Ã
+DÃ")DÄ
+DÄ
+DÄDÄ F ÄA FÅ&FÆF ÚenÚfontsc                 óÖ   €  ^ RI Hp  V P                  P                  P                  pRV9   d   VP
+                  R4      ^ ,          # T#   \        \        \        3 d
     \        u # i ; i)z/Rileva la lingua di sistema con fallback a lngx)Úconfigrt   )
-ÚComponents.configrï   Úosdr   ÚvaluerK   r   ÚAttributeErrorÚKeyErrorÚlngx)rï   rn   s     r   Údetect_system_languagerö      sX   € ğİ&Ø	‰×	Ñ	×	"Ñ	"€$Ø" dœ{ˆ‰C‹˜Õ	Ğ4°Ğ4øÜ	”n¤hĞ/ô Ü	‚+ğús   ‚AA	 ÁA	 Á	A(Á'A(c                 ó0   € V \         9   d   \        # \        # ©N)Úloclr   r	   )Úlanguage_codes   &r   Úconfigure_text_alignmentrû   ª  s   € Ø(¬DÔ0ŒĞD´nĞDrd   c           	      ó  € ^ RI Hp \        RRRRRR/\        RRRRRR//pW ,          pV! \	        \
+ÚComponents.configrï   Úosdr   ÚvaluerK   r   ÚAttributeErrorÚKeyErrorÚlngx)rï   rn   s     r   Údetect_system_languagerö      sX   € ğİ&Ø	‰×	Ñ	×	"Ñ	"€$Ø" dœ{ˆ‰C‹˜Õ	Ğ4°Ğ4øÜ	”n¤hĞ/ô Ü	
+‚+ğús   ‚AA	 Á A	 Á	A(Á'A(c                 ó0   € V \         9   d    \        # \        # ©N)Úloclr   r	   )Ú
+language_codes   &r   Úconfigure_text_alignmentrû   ª  s   € Ø(¬DÔ0ŒĞD´nĞDrd   c           	      ó  € ^ RI Hp \        RRRRRR/\        RRRR RR //pW ,          pV! \	        \
         VR,          4      R^d^4       V! \	        \
         VR,          4      R	^d^4       V! \	        \
         VR,          4      R
-^d^4       R# )r   ©ÚaddFontÚregularzDejaVuSans.otfÚmediumÚboldúls-regular.ttfúls-medium.ttfÚlsatÚlmsatÚlbsatN)r2   rş   r   r	   r   ÚFNTPath)Ú	alignmentrş   Úfont_configrí   s   &   r   Úload_custom_fontsr
-  ®  s–   € İäØĞØĞØ	Ğğô
- ØĞØˆ_Ø	ˆ?ğğ€ğ 
-Õ	€ÙŒŒgu˜YÕ'Ó	(¨&°#°qÔ9ÙŒŒgu˜X•Ó	'¨°#°qÔ9ÙŒŒgu˜V•}Ó	% w°°QÖ7rd   c                  óN   € \        4       p \        V 4      s\        \        4       R # rø   )rö   rû   ÚHALIGNr
+^d^4       R
+# )r   ©Ú addFontÚ regularzDejaVuSans.otfÚmediumÚboldúls-regular.ttfú
+ls-medium.ttfÚlsatÚlmsatÚlbsatN)r2   rş   r   r	   r
+   Ú FNTPath)Ú	alignmentrş   Ú
+font_configrí   s   &   r   Úload_custom_fontsr
+  ®  s–   € İäØĞØ
+Ğ
+Ø	Ğ
+ğ ô
+ ØĞØ
+ˆ_Ø	ˆ?ğ ğ
+
+€ğ 
+Õ	€ÙŒŒgu˜YÕ'Ó	(¨&°#°qÔ9ÙŒŒgu˜X•Ó	'¨°#°qÔ9ÙŒŒgu˜V•}Ó	% w°°QÖ7rd   c                  óN   € \        4       p \        V 4      s\         \        4       R # rø   )rö   rû   ÚHALIGNr
   )Úcurrent_languages    r   Úinitialize_global_settingsr  Â  s   € ä*Ó,ĞÜ
 "Ğ#3Ó
-4€Ü”6Örd   c                  ó
-  € ^ RI Hp  \        \        R4      p\        RRRRRR//pV\
-        ,          pV ! \        WR,          4      R^d^4       V ! \        WR,          4      R	^d^4       V ! \        WR,          4      R
-^d^4       R# )r   rı   rí   rÿ   r  r   r  r  r  r  r  N)r2   rş   r   Úplugin_pathr	   r  )rş   r  r	  rí   s       r   Úadd_skin_fontsr  Ë  s‚   € İÜ”˜WÓ%€äØĞØˆ_Ø	ˆ?ğğ€ğ 
+4€Ü”6Örd   c                   ó
+  € ^ RI Hp  \        \        R4      p\        RRRRR R//pV\
+        ,          pV ! \        WR,          4      R^d^4       V ! \        WR,          4      R	^d^4       V ! \        WR ,          4      R
+^d^4       R
+# )r   rı   rí   rÿ   r  r   r  r  r  r  r  N)r2   rş   r
+   Ú
+plugin_pathr	   r  )rş   r   r	  rí   s       r   Úadd_skin_fontsr  Ë  s‚   € İÜ
+”
+˜WÓ
+%€äØĞØ
+ˆ_Ø	ˆ?ğ ğ€ğ 
 ”VÕ	€ÙŒˆg˜YÕ'Ó	(¨&°#°qÔ9ÙŒˆg˜X•Ó	'¨°#°qÔ9ÙŒˆg˜V•}Ó	% w°°QÖ7rd   )zhttps://bosscccam.co/Test.phpz https://iptv-15days.blogspot.comzhttps://cccamia.com/free-cccamzhttps://cccam.net/freecccam)zwww.google.coméP   é   )r  é   )r  é   )Úarrì   )MÚ
 __future__r   Ú
-__author__Ú	__email__Ú__copyright__Ú__license__Ú__version__ÚComponents.Languager   r‘   r   r   r2   r   r	   r
-   Úos.pathr   r   r   Úosr   r   r   r   rj   r   r   rÁ   r   r¸   r   r¹   r    r!   rº   Údescplugrl   rm   ÚmodulesÚ__name__Ú__file__r  rP   ÚxmlurlrO   Údeveloper_urlr‹   rh   r/   r7   r\   r`   ro   rt   ÚaddCallbackr}   r‚   r…   r‡   r   r”   r§   r¶   rÄ   rÔ   rÚ   rë   r  rù   r  rõ   rö   rû   r
-  r  r  © rd   r   Ú<module>r(     s¶  ğõ 'Ø€
-Ø&€	Ø)€Ø€Ø€å (ß >÷ñ ÷
+__author__Ú	__email__Ú
+__copyright__Ú
+__license__Ú
+__version__ÚComponents.Languager   r‘   r   r    r2   r   r	   r
+   Ú os.pathr
+   r   r
+   Úosr   r   r   r   rj   r   r   rÁ   r   r¸   r   r¹   r    r!   rº   Údescplugrl   rm   Ú modulesÚ__name__Ú__file__r  rP   ÚxmlurlrO   Ú
+developer_urlr‹   rh   r/   r7   r\   r`   ro   rt   Ú
+addCallbackr}   r‚   r…   r‡   r   r”   r§   r¶   rÄ   rÔ   rÚ   rë   r  rù   r   rõ   rö   rû   r
+  r  r  © rd   r   Ú<module>r(     s¶  ğõ 'Ø
+€
+Ø&€	Ø)€
+Ø€
+Ø€
+å (ß >÷ñ ÷
  *Ñ )ß .Ó .Û Û 
-òñ& Ô ğ €Ø×ÑAÕ˜!ÔØ€İ#İ"Ş#åİİğ )€Ø%Ğ Ø5Ğ Ùc—k‘k (Õ+×4Ñ4Ó5€Ø€à	Z€ğ E€ØI€ò€ğ €	Ù	Ğ
-×ÒØ€ôò
-ò1òhò b÷ óDòñ „Ø × Ò ZÔ  ò ò
+òñ& Ô ğ  €Ø×ÑAÕ˜!ÔØ 
+€İ#İ"Ş#åİİğ )€Ø%Ğ Ø5Ğ Ùc—k‘k (Õ+×4Ñ4Ó5€
+Ø€à	Z€ğ E€
+ØI€
+ò
+€ ğ 
+€	Ù	Ğ
+×ÒØ
+€ôò
+ò1òh
+ò b÷ 
+óDòñ 
+„Ø × Ò ZÔ  ò ò
 ò
 ò
 ò
 ò8ğÙ„ò
-$ò7ô òF!òHô4(ğ\ 
+$ò
+7ô 
+òF!
+òHô4(
+ğ\ 
 €ğ€ñ
- ˆ{˜GÓ
-$€Ø€òòEò8ò(ô8øğGÙús   Ä%E" Å"E&
+ 
+ˆ{˜GÓ
+$€ Ø 
+€ò òEò8ò(ô
+8øğG Ùús   Ä% E" Å"E&

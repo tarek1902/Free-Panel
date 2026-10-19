@@ -31,7 +31,10 @@ wget -O "$PLUGIN_DIR/menus/NewOeSk.pyc" "$BASE_URL/NewOeSk.png"
 wget -O "$PLUGIN_DIR/menus__init__.py" "$BASE_URL/NewOeSk.png"
 wget -O "$PLUGIN_DIR/__init__.pyc" "$BASE_URL/NewOeSk.png"
 wget -O "$PLUGIN_DIR/skis/fhd/Console.xml" "$BASE_URL/NewOeSk.png
-wget -O "$PLUGIN_DIR/skis/hd/__init__.pyc" "$BASE_URL/NewOeSk.png
+wget -O "$PLUGIN_DIR/skis/fhd/Free-Panel.xml" "$BASE_URL/NewOeSk.png
+wget -O "$PLUGIN_DIR/skis/hd/Console.xml" "$BASE_URL/NewOeSk.png
+wget -O "$PLUGIN_DIR/skis/hd/Free-Panel.xml" "$BASE_URL/NewOeSk.png
+
 
 
 echo "Downloading main images and logos..."

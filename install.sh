@@ -58,6 +58,7 @@ wget -O "$PLUGIN_DIR/images/Icons/system_images.png" "$BASE_URL/images/Icons/sys
 wget -O "$PLUGIN_DIR/images/Icons/picons.png" "$BASE_URL/images/Icons/picons.png"
 wget -O "$PLUGIN_DIR/images/Icons/channels.png" "$BASE_URL/images/Icons/channels.png"
 wget -O "$PLUGIN_DIR/images/Icons/novaler.png" "$BASE_URL/images/Icons/novaler.png"
+wget -O "$PLUGIN_DIR/Free-Panel.png" "$BASE_URLFree-Panel.png"
 
 # تنظيف ملفات البايثون المؤقتة
 find "$PLUGIN_DIR" -name "*.pyc" -delete 2>/dev/null

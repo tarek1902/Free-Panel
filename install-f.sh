@@ -1,13 +1,13 @@
 #!/bin/sh
 # ------------------------------------------------------------------
 # EnigmaPlay - one-line installer for Enigma2 boxes
-#   wget -qO- https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/install.sh | sh
+#   wget -qO- https://raw.githubusercontent.com/tarek1902/Free-Panel/main/install-f.sh | sh
 # POSIX sh (BusyBox ash / bash). Picks .ipk (opkg images) or .deb (apt/dpkg images).
 # ------------------------------------------------------------------
-REPO="https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main"
-PKG="enigma2-plugin-extensions-enigmaplay"
-LOG="/tmp/enigmaplay_install.log"
-TMP="/tmp/enigmaplay_pkg"
+REPO="https://raw.githubusercontent.com/tarek1902/Free-Panel/refs/heads/main"
+PKG="enigma2-plugin-extensions-Free-Panel"
+LOG="/tmp/Free-Panel_install.log"
+TMP="/tmp/Free-Panel_pkg"
 
 G='\033[0;32m'; Y='\033[1;33m'; C='\033[0;36m'; R='\033[0;31m'; N='\033[0m'
 say()  { printf "%b\n" "$*"; }
@@ -20,7 +20,7 @@ fetch() {   # fetch <url> <file>
 
 : > "$LOG"
 say "${C}##############################################${N}"
-say "${Y}###        EnigmaPlay - Setup               ###${N}"
+say "${Y}###        Free-Panel - Setup               ###${N}"
 say "${C}##############################################${N}"
 
 # ---- Python 3 is required ------------------------------------------------------------
@@ -90,7 +90,7 @@ fi
 
 # ---- install ----------------------------------------------------------------------------
 wait_pm
-say "${G}Installing EnigmaPlay ${VER} ...${N}"
+say "${G}Installing Free-Panel ${VER} ...${N}"
 if [ "$KIND" = "ipk" ]; then
     for try in 1 2 3; do
         opkg install --force-reinstall --force-overwrite "$FILE" >>"$LOG" 2>&1 \
@@ -114,14 +114,14 @@ if [ "$KIND" = "ipk" ]; then
 else
     NEW=$(dpkg-query -W -f='${Version}' "$PKG" 2>/dev/null)
 fi
-if [ "$NEW" != "$VER" ] || [ ! -f /usr/lib/enigma2/python/Plugins/Extensions/EnigmaPlay/plugin.py ]; then
+if [ "$NEW" != "$VER" ] || [ ! -f /usr/lib/enigma2/python/Plugins/Extensions/Free-Panel/plugin.py ]; then
     say "${R}Installation failed (code $RC). Last messages:${N}"
     tail -n 15 "$LOG"
     exit 1
 fi
-[ $RC -eq 0 ] || say "${Y}Note: the package manager reported errors about other packages (see $LOG), EnigmaPlay itself is installed.${N}"
+[ $RC -eq 0 ] || say "${Y}Note: the package manager reported errors about other packages (see $LOG), Free-Panel itself is installed.${N}"
 
-say "${G}EnigmaPlay ${VER} installed successfully.${N}"
+say "${G}Free-Panel ${VER} installed successfully.${N}"
 say "${C}Restarting Enigma2 ...${N}"
 sleep 2
 if command -v systemctl >/dev/null 2>&1 && systemctl is-active enigma2 >/dev/null 2>&1; then

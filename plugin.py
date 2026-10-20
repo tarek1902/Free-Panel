@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 import sys
-sys.path.append('/usr/lib/enigma2/python/Plugins/Extensions/Free-Panel')
+sys.path.append('/usr/lib/enigma2/python/Plugins/Extensions/EmilPanelPro')
 from Screens.Console import Console
 import codecs
 import io

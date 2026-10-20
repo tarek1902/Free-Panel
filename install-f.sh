@@ -1,6 +1,6 @@
 #!/bin/sh
 # ------------------------------------------------------------------
-# EnigmaPlay - one-line installer for Enigma2 boxes
+# Free-Panel installer for Enigma2 boxes
 #   wget -qO- https://raw.githubusercontent.com/tarek1902/Free-Panel/main/install-f.sh | sh
 # POSIX sh (BusyBox ash / bash). Picks .ipk (opkg images) or .deb (apt/dpkg images).
 # ------------------------------------------------------------------

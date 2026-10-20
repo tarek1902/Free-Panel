@@ -1422,7 +1422,7 @@ class EmilPanel(Screen):
     def updatePlugin(self):
         self.session.open(
             Console, 
-            _("Updating EmilPanelPro"), 
+            _("Updating Free-Panel"), 
             ["wget %s -O - | /bin/sh" % UPDATE_SCRIPT_URL]
         )
 
@@ -1612,7 +1612,7 @@ def Plugins(**kwargs):
         PluginDescriptor(
             name="Free-Pnael",
             description=descplug,
-            icon="EmilPanel.png",
+            icon="Free-Panel.png",
             where=PluginDescriptor.WHERE_PLUGINMENU,
             fnc=main
         ),

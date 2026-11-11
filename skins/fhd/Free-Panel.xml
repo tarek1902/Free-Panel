@@ -1,11 +1,11 @@
-<screen name="EmilPanelPro" position="center,center" size="1920,1080" title="Free-Panel">
+<screen name="Free-Panel" position="center,center" size="1920,1080" title="Emil Panel Pro">
     <ePixmap position="0,0" zPosition="0" size="1920,1080" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Free-Panel/images/panel.png" backgroundColor="#25062748" alphatest="on" />
     <eLabel position="0,0" zPosition="-10" size="1920,1080" backgroundColor="black" />
     <widget name="info" position="100,100" zPosition="4" size="550,84" font="Regular; 45" foregroundColor="#0049bbff" backgroundColor="#40000000" transparent="1" halign="left" valign="center" />
     <widget name="sort" position="1224,986" zPosition="4" size="675,84" font="Regular; 42" foregroundColor="#0049bbff" backgroundColor="#40000000" transparent="1" halign="left" valign="center" />
     <eLabel name="sort_index" position="1179,1002" size="52,52" backgroundColor="#40000000" halign="center" valign="center" transparent="1" cornerRadius="26" font="Regular; 42" zPosition="1" text="0" foregroundColor="#0049bbff" />
     <widget source="session.VideoPicture" render="Pig" position="1100,180" size="750,550" zPosition="1" backgroundColor="#ff000000" />
-    <ePixmap position="1100,650" zPosition="1" size="500,500" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Free-Panel/images/Free-Panel.png" alphatest="on" />
+    <ePixmap position="1100,650" zPosition="1" size="500,500" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Free-Panel/images/emilpanel.png" alphatest="on" />
     <widget source="global.CurrentTime" render="Label" position="1555,860" size="350,90" font="Regular; 75" noWrap="1" halign="center" valign="bottom" foregroundColor="#0049bbff" backgroundColor="#20000000" transparent="1" zPosition="2">
         <convert type="ClockToText">Default</convert>
     </widget>

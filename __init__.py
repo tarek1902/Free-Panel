@@ -4,8 +4,8 @@
 # Free-Panel Plugin
 #
 from __future__ import absolute_import
-__author__ = "tarek"
-__email__ = "zoka900zoka@yahoo.com"
+__author__ = "Emil"
+__email__ = "emilnabilrageb@gmail.com"
 __copyright__ = 'Copyright (c) 2025 Emil'
 __license__ = "GPL-v2"
 __version__ = "1.0.0"
@@ -57,15 +57,15 @@ else:
 	from urllib2 import Request
 
 
-descplug = "EmilPanelPro (Addons Panel)"
-PluginLanguageDomain = 'EmilPanelPro'
-PluginLanguagePath = 'Extensions/EmilPanelPro/locale'
+descplug = "Free-Panel (Addons Panel)"
+PluginLanguageDomain = 'Free-Panel'
+PluginLanguagePath = 'Extensions/Free-Panel/locale'
 plugin_path = dirname(sys.modules[__name__].__file__)
 AgentRequest = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.3'
 
-xmlurl = 'https://github.com/tarek1902/Free-Panel/raw/refs/heads/main/Free-Panel.xml'
-installer_url = 'wget https://github.com/tarek1902/Free-Panel/raw/refs/heads/main/Free-Panel.sh -O - | /bin/sh'
-developer_url = 'https://api.github.com/repos/tarek1902/Free-Panel'
+xmlurl = 'https://github.com/emilnabil/download-plugins/raw/refs/heads/main/emilpanel.xml'
+installer_url = 'wget https://gitlab.com/hanfy1971/plugin/-/raw/main/EMAILPANEL/Free-Panel.sh -O - | /bin/sh'
+developer_url = 'https://api.github.com/repos/emilnabil/download-plugins'
 
 ListUrl = [
 	"https://bosscccam.co/Test.php",

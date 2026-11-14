@@ -255,6 +255,7 @@ class Panels(BaseScreen):
             ("smartpanelfree", "wget https://gitlab.com/hanfy1971/panel-free/-/raw/main/smartpanelfree/smartpanelfree.sh -O - | /bin/sh"),
             ("EnigmaPlay-Repo", "wget https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/install.sh -O - | /bin/sh"),
             ("Free-Panel", "wget https://gitlab.com/hanfy1971/plugin/-/raw/main/EMAILPANEL/Free-Panel.sh -O - | /bin/sh"),
+            ("SkyBlueStore", "wget https://raw.githubusercontent.com/tarek1902/SkyBlueStore/refs/heads/main/SkyBlueStore.sh -O - | /bin/sh"),
             ("tarek-panel", "wget https://gitlab.com/hanfy1971/plugin/-/raw/main/MohamedStore-panel/tarek-panel.sh -O - | /bin/sh"),
             ("Ciefp-Panel", "wget https://github.com/ciefp/CiefpsettingsPanel/raw/main/installer.sh -O - | /bin/sh"),
             ("Ciefp-Panel mod Emil Nabil", "wget https://github.com/emilnabil/download-plugins/raw/refs/heads/main/Ciefp-Panel/Ciefp-Panel.sh -O - | /bin/sh"),

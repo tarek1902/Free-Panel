@@ -11,7 +11,7 @@ from __future__ import absolute_import
 from __future__ import print_function
 from os.path import isfile
 from re import search
-__author__ = "Emil"
+__author__ = "Free-Panel"
 __email__ = "emilnabilragheb@gmail.com"
 __copyright__ = 'Copyright (c) 2025 Emil'
 __license__ = "GPL-v2"

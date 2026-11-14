@@ -1334,7 +1334,7 @@ class SkinSubMenu(Screen):
         if idx is not None and 0 <= idx < len(self.skin_scripts):
             self.session.open(Console, _("Installing Skin"), ["wget %s -O - | /bin/sh" % self.skin_scripts[idx]])
 
-class Free-Panel(Screen):
+class Panels(Screen):
     def __init__(self, session):
         Screen.__init__(self, session)
         try:

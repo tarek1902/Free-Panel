@@ -71,7 +71,7 @@ from .menus.NewOeSk import ctrlSkin
 from .Console import Console
 
 PLUGIN_VERSION = "2.0.0"
-VERSION_URL = "https://gitlab.com/hanfy1971/plugin/-/raw/main/EMAILPANEL/version.tx"
+VERSION_URL = "https://raw.githubusercontent.com/tarek1902/Free-Panel/refs/heads/main/version.txt"
 UPDATE_SCRIPT_URL = "https://gitlab.com/hanfy1971/plugin/-/raw/main/EMAILPANEL/Free-Panel.sh"
 
 currversion = PLUGIN_VERSION

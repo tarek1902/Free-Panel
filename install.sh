@@ -70,9 +70,22 @@ find "$PLUGIN_DIR" -name "__pycache__" -exec rm -rf {} \; 2>/dev/null
 chmod -R 755 "$PLUGIN_DIR"
 
 sync
+wait
+#!/bin/sh
+#
 
-echo "Restarting Enigma2..."
-sleep 2
+wget -O /tmp/menu_panel.tar.gz "https://github.com/tarek1902/Free-Panel/raw/main/menu_panel.tar.gz"
+
+tar -xzf /tmp/menu_panel.tar.gz -C /
+
+wait
+
+rm -f /tmp/menu_panel.tar.gz
+echo "   UPLOADED BY  >>>>   TAREK_HANFY "   
+sleep 4;                                                                                                                  
+echo ". >>>>         RESTARING     <<<<"
+"**********************************************************************************"
+wait
 killall -9 enigma2
-
 exit 0
+

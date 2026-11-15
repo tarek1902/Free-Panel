@@ -5,7 +5,7 @@
     <widget name="sort" position="816,657" zPosition="4" size="450,56" font="Regular; 28" foregroundColor="#0049bbff" backgroundColor="#40000000" transparent="1" halign="left" valign="center" />
     <eLabel name="sort_index" position="786,668" size="35,35" backgroundColor="#40000000" halign="center" valign="center" transparent="1" cornerRadius="18" font="Regular; 28" zPosition="1" text="0" foregroundColor="#0049bbff" />
     <widget source="session.VideoPicture" render="Pig" position="733,120" size="500,367" zPosition="1" backgroundColor="#ff000000" />
-    <ePixmap position="733,483" zPosition="1" size="333,333" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Free-Panel/images-hd/emilpanel.png" alphatest="on" />
+    <ePixmap position="733,483" zPosition="1" size="333,333" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Free-Panel/images-hd/Free-Panel.png" alphatest="on" />
     <widget source="global.CurrentTime" render="Label" position="1037,573" size="233,60" font="Regular; 50" noWrap="1" halign="center" valign="bottom" foregroundColor="#0049bbff" backgroundColor="#20000000" transparent="1" zPosition="2">
         <convert type="ClockToText">Default</convert>
     </widget>

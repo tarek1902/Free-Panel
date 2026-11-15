@@ -1,4 +1,4 @@
-<screen name="Free-Panel" position="center,center" size="1920,1080" title="Emil Panel Pro">
+<screen name="Free-Panel" position="center,center" size="1920,1080" title="Free-Panel">
     <ePixmap position="0,0" zPosition="0" size="1920,1080" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Free-Panel/images/panel.png" backgroundColor="#25062748" alphatest="on" />
     <eLabel position="0,0" zPosition="-10" size="1920,1080" backgroundColor="black" />
     <widget name="info" position="100,100" zPosition="4" size="550,84" font="Regular; 45" foregroundColor="#0049bbff" backgroundColor="#40000000" transparent="1" halign="left" valign="center" />

@@ -1605,7 +1605,7 @@ def main(session, **kwargs):
     session.open(EmilPanel)
 
 def menu(menuid, **kwargs):
-    return [(_("Emil Panel Pro"), main, descplug, 44)] if menuid == "mainmenu" else []
+    return [(_("Free-Panel"), main, descplug, 44)] if menuid == "mainmenu" else []
 
 def Plugins(**kwargs):
     add_skin_fonts()

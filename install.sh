@@ -1,4 +1,4 @@
-#!/bin/s
+#!/bin/sh
 
 PLUGIN_DIR="/usr/lib/enigma2/python/Plugins/Extensions/Free-Panel"
 BASE_URL="https://raw.githubusercontent.com/tarek1902/Free-Panel/refs/heads/main"

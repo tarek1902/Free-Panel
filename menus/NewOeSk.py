@@ -4,16 +4,16 @@
 # ======================================================================
 # Free-Panel Plugin
 
-# rewritten by Emi Nabil at 20250421
+# rewritten by tarek1902 at 2026 11 16
 #
 
 from __future__ import absolute_import
 from __future__ import print_function
 from os.path import isfile
 from re import search
-__author__ = "Emil"
-__email__ = "emilnabilragheb@gmail.com"
-__copyright__ = 'Copyright (c) 2025 Emil'
+__author__ = "tarek1902"
+__email__ = "git@github.com:tarek1902/Free-Panel.git"
+__copyright__ = 'Copyright (c) 2026 tarek1902'
 __license__ = "GPL-v2"
 __version__ = "1.0.0"
 

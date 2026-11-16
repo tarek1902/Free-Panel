@@ -63,7 +63,7 @@ PluginLanguagePath = 'Extensions/Free-Panel/locale'
 plugin_path = dirname(sys.modules[__name__].__file__)
 AgentRequest = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.3'
 
-xmlurl = 'https://github.com/tarek1902/Free-Panel/blob/main/Free-Panel.xml'
+xmlurl = 'https://github.com/tarek1902/Free-Panel/raw/main/Free-Panel.xml'
 installer_url = 'wget https://raw.githubusercontent.com/tarek1902/Free-Panel/refs/heads/main/Free-Panel.sh -O - | /bin/sh'
 developer_url = 'https://api.github.com/repos/tarek1902/Free-Panel'
 

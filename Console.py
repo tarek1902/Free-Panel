@@ -16,7 +16,7 @@ import sys
 import codecs
 import os
 
-plugin_path = resolveFilename(SCOPE_PLUGINS, "Extensions/{}".format('EmilPanel'))
+plugin_path = resolveFilename(SCOPE_PLUGINS, "Extensions/{}".format('Free-Panel'))
 PY2 = sys.version_info[0] == 2
 PY3 = sys.version_info[0] == 3
 

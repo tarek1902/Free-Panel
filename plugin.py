@@ -72,7 +72,7 @@ from .Console import Console
 
 PLUGIN_VERSION = "2.0.0"
 VERSION_URL = "https://raw.githubusercontent.com/tarek1902/Free-Panel/refs/heads/main/version.txt"
-UPDATE_SCRIPT_URL = "https://raw.githubusercontent.com/tarek1902/Free-Panel/refs/heads/main/Free-Panel.sh"
+UPDATE_SCRIPT_URL = "https://raw.githubusercontent.com/tarek1902/Free-Panel/refs/heads/main/install.sh"
 
 currversion = PLUGIN_VERSION
 descplug = "Enigma2 Tools)"

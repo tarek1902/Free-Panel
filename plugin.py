@@ -526,6 +526,7 @@ class SoftcamsPanel(BaseScreen):
             ("Hold-flag-Oscam", "wget https://dreambox4u.com/emilnabil237/script/Hold-flag-Oscam.sh -O - | /bin/sh"),
             ("Ncam", "wget https://dreambox4u.com/emilnabil237/emu/installer-ncam.sh -O - | /bin/sh"),
             ("Oscam", "wget https://dreambox4u.com/emilnabil237/emu/installer-oscam.sh -O - | /bin/sh"),
+            ("Oscam-mohamedos", "wget https://raw.githubusercontent.com/tarek1902/OSCAM-NCAM/refs/heads/main/ipk-deb.sh -O - | /bin/sh"),
             ("Oscam-11.726-by-lenuxsat", "wget https://dreambox4u.com/emilnabil237/emu/oscam-by-lenuxsat/installer.sh -O - | /bin/sh"),
             ("oscamicam", "wget https://dreambox4u.com/emilnabil237/emu/installer-oscamicam.sh -O - | /bin/sh"),
             ("powercam_v2-icam-arm", "wget https://dreambox4u.com/emilnabil237/emu/powercam/installer.sh -O - | /bin/sh"),
